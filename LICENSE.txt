@@ -1,0 +1,7 @@
+/* 
+ * Copyright (C) 2021 Excelerate Technology Ltd. T/A Eliatra - All Rights Reserved
+ * Unauthorized copying, usage or modification of this file in its source or binary form, 
+ * via any medium is prohibited.
+ * 
+ * https://eliatra.com
+ */
